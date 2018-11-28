@@ -1,0 +1,98 @@
+# Exported from Fuse 1.3.0
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Beard_diffuse.png
+map_Ks Scientist_Beard_specular.png
+bump Scientist_Beard_normal.png
+map_Ns Scientist_Beard_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Glove_diffuse.png
+map_Ks Scientist_Glove_specular.png
+bump Scientist_Glove_normal.png
+map_Ns Scientist_Glove_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Moustache_diffuse.png
+map_Ks Scientist_Moustache_specular.png
+bump Scientist_Moustache_normal.png
+map_Ns Scientist_Moustache_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Body_diffuse.png
+map_Ks Scientist_Body_specular.png
+bump Scientist_Body_normal.png
+map_Ns Scientist_Body_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Hair_diffuse.png
+map_Ks Scientist_Hair_specular.png
+bump Scientist_Hair_normal.png
+map_Ns Scientist_Hair_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Bottom_diffuse.png
+map_Ks Scientist_Bottom_specular.png
+bump Scientist_Bottom_normal.png
+map_Ns Scientist_Bottom_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Shoes_diffuse.png
+map_Ks Scientist_Shoes_specular.png
+bump Scientist_Shoes_normal.png
+map_Ns Scientist_Shoes_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Scientist_Top_diffuse.png
+map_Ks Scientist_Top_specular.png
+bump Scientist_Top_normal.png
+map_Ns Scientist_Top_gloss.png
+

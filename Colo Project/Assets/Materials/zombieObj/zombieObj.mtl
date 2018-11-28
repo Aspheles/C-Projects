@@ -1,0 +1,86 @@
+# Exported from Fuse 1.3.0
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Hair_diffuse.png
+map_Ks zombieObj_Hair_specular.png
+bump zombieObj_Hair_normal.png
+map_Ns zombieObj_Hair_gloss.png
+
+newmtl Beard
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Beard_diffuse.png
+map_Ks zombieObj_Beard_specular.png
+bump zombieObj_Beard_normal.png
+map_Ns zombieObj_Beard_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Top_diffuse.png
+map_Ks zombieObj_Top_specular.png
+bump zombieObj_Top_normal.png
+map_Ns zombieObj_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Bottom_diffuse.png
+map_Ks zombieObj_Bottom_specular.png
+bump zombieObj_Bottom_normal.png
+map_Ns zombieObj_Bottom_gloss.png
+
+newmtl Moustache
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Moustache_diffuse.png
+map_Ks zombieObj_Moustache_specular.png
+bump zombieObj_Moustache_normal.png
+map_Ns zombieObj_Moustache_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Body_diffuse.png
+map_Ks zombieObj_Body_specular.png
+bump zombieObj_Body_normal.png
+map_Ns zombieObj_Body_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd zombieObj_Shoes_diffuse.png
+map_Ks zombieObj_Shoes_specular.png
+bump zombieObj_Shoes_normal.png
+map_Ns zombieObj_Shoes_gloss.png
+
